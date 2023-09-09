@@ -1,307 +1,33 @@
-[
+{
+	"users":[{
+		"id":"1",
+		"name":"Tony",
+		"email":"tony@gmail.com"
+	},
 	{
-	"id": "DNYCJix77xtQrznvpv1u",
-	"data": {
-		"clientId": 100,
-		"createdDate": "",
-		"createdBy": "Pushpanath",
-		"branch": "State Board",
-		"class": "3",
-		"section": [
-			"B"
-		],
-		"timetable": [
-			{
-				"day": "MON",
-				"schedule": [
-					{
-						"title": "Math",
-						"startTime": "09:00",
-						"endTime": "10:00",
-						"location": "Classroom 101"
-					},
-					{
-						"title": "Physics",
-						"startTime": "10:00",
-						"endTime": "11:00",
-						"location": "Lab 102"
-					},
-					{
-						"title": "Biology",
-						"startTime": "11:00",
-						"endTime": "12:00",
-						"location": "Lab 102"
-					},
-					{
-						"title": "Chemistry",
-						"startTime": "12:00",
-						"endTime": "13:00",
-						"location": "Lab 102"
-					},
-					{
-						"title": "Lunch Break",
-						"startTime": "13:00",
-						"endTime": "14:00"
-					},
-					{
-						"title": "English",
-						"startTime": "14:00",
-						"endTime": "15:00",
-						"location": "Classroom 104"
-					},
-					{
-						"title": "Java",
-						"startTime": "15:00",
-						"endTime": "16:00",
-						"location": "Lab 104"
-					},
-					{
-						"title": "C++",
-						"startTime": "16:00",
-						"endTime": "17:00",
-						"location": "Lab 505"
-					},
-					{
-						"title": "Study Hall",
-						"startTime": "17:00",
-						"endTime": "18:00",
-						"location": "Library"
-					}
-				]
-			},
-			{
-				"day": "TUE",
-				"schedule": [
-					{
-						"title": "History",
-						"startTime": "09:00",
-						"endTime": "10:00",
-						"location": "Classroom 201"
-					},
-					{
-						"title": "Chemistry",
-						"startTime": "10:00",
-						"endTime": "11:00",
-						"location": "Lab 202"
-					},
-					{
-						"title": "Biology",
-						"startTime": "11:00",
-						"endTime": "12:00",
-						"location": "Lab 303"
-					},
-					{
-						"title": "Physics",
-						"startTime": "12:00",
-						"endTime": "13:00",
-						"location": "Lab 102"
-					},
-					{
-						"title": "Lunch Break",
-						"startTime": "13:00",
-						"endTime": "14:00"
-					},
-					{
-						"title": "French",
-						"startTime": "14:00",
-						"endTime": "15:00",
-						"location": "Classroom 303"
-					},
-					{
-						"title": "Physical Education",
-						"startTime": "15:00",
-						"endTime": "16:00",
-						"location": "Gymnasium"
-					},
-					{
-						"title": "Art",
-						"startTime": "16:00",
-						"endTime": "17:00",
-						"location": "Art Room"
-					},
-					{
-						"title": "Study Hall",
-						"startTime": "17:00",
-						"endTime": "18:00",
-						"location": "Library"
-					}
-				]
-			},
-			{
-				"day": "WED",
-				"schedule": [
-					{
-						"title": "Computer Science",
-						"startTime": "09:00",
-						"endTime": "10:00",
-						"location": "Lab 101"
-					},
-					{
-						"title": "Geography",
-						"startTime": "10:00",
-						"endTime": "11:00",
-						"location": "Classroom 202"
-					},
-					{
-						"title": "Chemistry",
-						"startTime": "11:00",
-						"endTime": "12:00",
-						"location": "Lab 303"
-					},
-					{
-						"title": "Python",
-						"startTime": "12:00",
-						"endTime": "13:00",
-						"location": "Lab 102"
-					},
-					{
-						"title": "Lunch Break",
-						"startTime": "13:00",
-						"endTime": "14:00"
-					},
-					{
-						"title": "Chemistry",
-						"startTime": "14:00",
-						"endTime": "15:00",
-						"location": "Lab 303"
-					},
-					{
-						"title": "Music",
-						"startTime": "15:00",
-						"endTime": "16:00",
-						"location": "Music Room"
-					},
-					{
-						"title": "Java",
-						"startTime": "16:00",
-						"endTime": "17:00",
-						"location": "Lab 104"
-					},
-					{
-						"title": "Study Hall",
-						"startTime": "17:00",
-						"endTime": "18:00",
-						"location": "Library"
-					}
-				]
-			},
-			{
-				"day": "THU",
-				"schedule": [
-					{
-						"title": "English",
-						"startTime": "09:00",
-						"endTime": "10:00",
-						"location": "Classroom 104"
-					},
-					{
-						"title": "History",
-						"startTime": "10:00",
-						"endTime": "11:00",
-						"location": "Classroom 201"
-					},
-					{
-						"title": "Biology",
-						"startTime": "11:00",
-						"endTime": "12:00",
-						"location": "Lab 303"
-					},
-					{
-						"title": "Physics",
-						"startTime": "12:00",
-						"endTime": "13:00",
-						"location": "Lab 102"
-					},
-					{
-						"title": "Lunch Break",
-						"startTime": "13:00",
-						"endTime": "14:00"
-					},
-					{
-						"title": "French",
-						"startTime": "14:00",
-						"endTime": "15:00",
-						"location": "Classroom 303"
-					},
-					{
-						"title": "Physical Education",
-						"startTime": "15:00",
-						"endTime": "16:00",
-						"location": "Gymnasium"
-					},
-					{
-						"title": "Art",
-						"startTime": "16:00",
-						"endTime": "17:00",
-						"location": "Art Room"
-					},
-					{
-						"title": "Study Hall",
-						"startTime": "17:00",
-						"endTime": "18:00",
-						"location": "Library"
-					}
-				]
-			},
-			{
-				"day": "FRI",
-				"schedule": [
-					{
-						"title": "Physical Education",
-						"startTime": "09:00",
-						"endTime": "10:00",
-						"location": "Gymnasium"
-					},
-					{
-						"title": "Math",
-						"startTime": "10:00",
-						"endTime": "11:00",
-						"location": "Classroom 101"
-					},
-					{
-						"title": "Chemistry",
-						"startTime": "11:00",
-						"endTime": "12:00",
-						"location": "Lab 202"
-					},
-					{
-						"title": "Physics",
-						"startTime": "12:00",
-						"endTime": "13:00",
-						"location": "Lab 102"
-					},
-					{
-						"title": "Lunch Break",
-						"startTime": "13:00",
-						"endTime": "14:00"
-					},
-					{
-						"title": "Art",
-						"startTime": "14:00",
-						"endTime": "15:00",
-						"location": "Art Room"
-					},
-					{
-						"title": "Python",
-						"startTime": "15:00",
-						"endTime": "16:00",
-						"location": "Lab 606"
-					},
-					{
-						"title": "C++",
-						"startTime": "16:00",
-						"endTime": "17:00",
-						"location": "Lab 505"
-					},
-					{
-						"title": "Study Hall",
-						"startTime": "17:00",
-						"endTime": "18:00",
-						"location": "Library"
-					}
-				]
-			}
-		]
-	}
-}
+		"id":"2",
+		"name":"Bruce",
+		"email":"bruce@gmail.com"
+	},
+	{
+		"id":"3",
+		"name":"Stark",
+		"email":"stark@gmail.com"
+	},
+	{
+		"id":"4",
+		"name":"Wayne",
+		"email":"waye@gmail.com"
+	},
+	{
+		"id":"5",
+		"name":"Peter",
+		"email":"peter@gmail.com"
+	},
+	{
+		"id":"6",
+		"name":"Parker",
+		"email":"parker@gmail.com"
+	},
 ]
+}
