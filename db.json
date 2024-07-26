@@ -1,0 +1,14 @@
+[
+  {
+    "doctor_name": "Dr. John Smith",
+    "consulting_on": "Cardiology",
+    "duration": "30 minutes",
+    "payment_status": "Paid"
+  },
+  {
+    "doctor_name": "Dr. Jane Doe",
+    "consulting_on": "Dermatology",
+    "duration": "45 minutes",
+    "payment_status": "Unpaid"
+  }
+]
