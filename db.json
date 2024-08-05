@@ -1,14 +1,24 @@
-[
-  {
-    "doctor_name": "Dr. John Smith",
-    "consulting_on": "Cardiology",
-    "duration": "30 minutes",
-    "payment_status": "Paid"
-  },
-  {
-    "doctor_name": "Dr. Jane Doe",
-    "consulting_on": "Dermatology",
-    "duration": "45 minutes",
-    "payment_status": "Unpaid"
-  }
-]
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Bruce",
+      "content": "This is the full content of post 1"
+    },
+    {
+      "id": 2,
+      "name": "Wayne",
+      "content": "This is the full content of post 2"
+    },
+    {
+      "id": 3,
+      "name": "Peter",
+      "content": "This is the full content of post 3"
+    },
+    {
+      "id": 4,
+      "title": "Parker",
+      "content": "This is the full content of post 4"
+    }
+  ]
+}
